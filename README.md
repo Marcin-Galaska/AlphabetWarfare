@@ -4,6 +4,8 @@
  ### Concept
   There is a significant chance you have played a game of 'Tanks' or 'Dog vs Cat' during your childhood. This project expands this idea, using simple logic components. Two players, represented as letters 'A' and 'B', try to snipe each other by setting the angle and force of their shot, directed to the opponent. The terrain and positions of the players are randomly generated each match. Each player has 3 lives, and whoever shoot the other one thrice - wins. This time, however, to spice things up, there is a wall in the middle of the arena, which changes its shape and position at the start of each round (a round being a turn of player A and B).
 
+Sample footage from ongoing match:
+
 https://github.com/Marcin-Galaska/AlphabetWarfare/assets/106023363/85ea2b61-3075-44d6-b3f1-f75e1192b038
 
 ### Files
