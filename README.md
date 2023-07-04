@@ -1,5 +1,5 @@
 # AlphabetWarfare
- A tanks-like game made only with basic logic elements, i.e. logic gates, comparators, bit shifters etc. Made using Logisim.
+ A tanks-like game made only with basic logic elements, i.e. logic gates, comparators, bit shifters etc. Developed fully in Logisim.
 
  ### Concept
   There is a significant chance you have played a game of 'Tanks' or 'Dog vs Cat' during your childhood. This project expands this idea, using simple logic components. Two players, represented as letters 'A' and 'B', try to snipe each other by setting the angle and force of their shot, directed to the opponent. The terrain and positions of the players are randomly generated each match. Each player has 3 lives, and whoever shoot the other one thrice - wins. This time, however, to spice things up, there is a wall in the middle of the arena, which changes its shape and position at the start of each round (a round being a turn of player A and B).
